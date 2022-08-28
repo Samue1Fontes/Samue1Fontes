@@ -59,6 +59,6 @@
 
 
 <div>    
-  <img src="sci-fi.gif" align="center"  height="48%">
-  <img src="giphy.gif" align="center"  height="48%">
+  <img align="center" src="sci-fi.gif" height="48%">
+  <img align="center" src="giphy.gif" height="48%">
 </div>
