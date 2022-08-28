@@ -59,6 +59,6 @@
 
 
 <div>    
-  <img src="sci-fi.gif" align="left"  height="50%">
-  <img src="giphy.gif" align="right"  height="50%" style="border-radius:50px;">
+  <img src="sci-fi.gif" align="center"  height="48%">
+  <img src="giphy.gif" align="center"  height="48%">
 </div>
