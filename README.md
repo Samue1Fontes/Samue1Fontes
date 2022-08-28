@@ -20,11 +20,6 @@
 </div>
 
 
-<div>    
-  <img src="giphy.gif" align="right" width="150" height="150" style="border-radius:50px;">
-</div>  
-
-
 <div align="center">
   <h5> 𝓢𝓸𝓬𝓲𝓪𝓵 </h5>
  </div>
@@ -38,6 +33,11 @@
   <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"</a>
 </div>
+
+
+<div>    
+  <img src="giphy.gif" align="right" width="150" height="150" style="border-radius:50px;">
+</div>  
 
 
 <div align="center">
