@@ -20,6 +20,11 @@
 </div>
 
 
+<div>    
+  <img src="giphy.gif" align="right" width="150" height="150" style="border-radius:50px;">
+</div>  
+
+
 <div align="center">
   <h5> 𝓢𝓸𝓬𝓲𝓪𝓵 </h5>
  </div>
@@ -45,9 +50,9 @@
   <a href="https://launcher.store.epicgames.com/u/132159f22624428ba92307506f20e6a2" target="_blank"><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"</a>
   <a><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"</a>
   <a><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"</a>
-</div>    
-     
-    
+</div> 
+
+
 <div align="center">
   
   ![Snake animation](https://github.com/Samue1Fontes/Samue1Fontes/blob/output/github-contribution-grid-snake.svg)
