@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Samue1Fontes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Samue1Fontes&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true&locale=pt-br"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samue1Fontes&theme=radical&hide_border=false&&layout=compact&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Samue1Fontes&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samue1Fontes&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
   </a>
 </div>
 
@@ -50,7 +50,7 @@
     
 <div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Samue1Fontes/Samue1Fontes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
