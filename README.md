@@ -35,11 +35,6 @@
 </div>
 
 
-<div>    
-  <img src="giphy.gif" align="right" width="150" height="150" style="border-radius:50px;">
-</div>  
-
-
 <div align="center">
   <h5> 𝓖𝓪𝓶𝓮𝓼 </h5>
  </div>    
@@ -53,10 +48,14 @@
 </div> 
 
 
+<div>    
+  <img src="giphy.gif" align="right" width="120" height="120" style="border-radius:50px;">
+</div> 
+
+
 <div align="center">
   
   ![Snake animation](https://github.com/Samue1Fontes/Samue1Fontes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-    
+ 
