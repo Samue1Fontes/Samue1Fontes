@@ -48,14 +48,17 @@
 </div> 
 
 
-<div>    
-  <img src="giphy.gif" align="right" width="120" height="120" style="border-radius:50px;">
-</div> 
-
-
 <div align="center">
   
   ![Snake animation](https://github.com/Samue1Fontes/Samue1Fontes/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
+##
+
+
+<div>    
+  <img src="giphy.gif" align="right" width="120" height="120" style="border-radius:50px;">
+</div> 
  
