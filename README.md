@@ -58,7 +58,13 @@
 ##
 
 
-<div>    
-  <img align="center" src="sci-fi.gif" height="48%">
-  <img align="center" src="giphy.gif" height="48%">
+<div align="center">    
+  <img src="sci-fi.gif">
+</div>
+
+
+##
+
+<div align="center"> 
+  <img src="giphy.gif">
 </div>
