@@ -1,9 +1,11 @@
-<div>
-  <h2 align="center"> Olá! Eu sou o Samuel Fontes 👋🏻 </h2>
-  <p align="center"> <b>Sou estudante de Ciências da Computação, e a cada dia busco aprender novas Tecnologias e me aprofundar no mundo da programação.😄</b></p>
-</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=200%&section=header&text=Seja%20Bem-Vindo!%20&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&desc=Olá,%20eu%20sou%20o%20Samuel%20Fontes%20👋🏻&descAlignY=50&descAlign=50&fontAlign=50&fontAlignY=25&fontSize=40&descSize=25"/> 
+
+<p style="font-size: 50px;">Sou estudante de Ciências da Computação, e a cada dia busco aprender novas Tecnologias e me aprofundar no mundo da programação.😄</p>
 
 
+
+<br/>
 <div align="center">
   <a href="https://github.com/Samue1Fontes">
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Samue1Fontes&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true&layout=compact&locale=pt-br"/>
@@ -35,36 +37,5 @@
 </div>
 
 
-<div align="center">
-  <h5> 𝓖𝓪𝓶𝓮𝓼 </h5>
- </div>    
-    
-       
-<div align="center">
-  <a href="https://steamcommunity.com/id/xSamuel007x/" target="_blank"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"</a>
-  <a href="https://launcher.store.epicgames.com/u/132159f22624428ba92307506f20e6a2" target="_blank"><img src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"</a>
-  <a><img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"</a>
-  <a><img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"</a>
-</div> 
 
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/Samue1Fontes/Samue1Fontes/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-
-##
-
-
-<div align="center">    
-  <img src="sci-fi.gif">
-</div>
-
-
-##
-
-<div align="center"> 
-  <img src="giphy.gif">
-</div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=160&section=footer&text=Obrigado+pela+visita!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
