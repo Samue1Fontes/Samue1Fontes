@@ -37,5 +37,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{samue1fontes}/count.svg" /></p> 
 <br></div>
 
+<div style="width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=160&section=footer&text=Obrigado+pela+visita!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80" style="width: 100%;">
+</div>
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=160&section=footer&text=Obrigado+pela+visita!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=80"/>
