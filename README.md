@@ -1,7 +1,8 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=200%&section=header&text=Seja%20Bem-Vindo!%20&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&desc=Olá,%20eu%20sou%20o%20Samuel%20Fontes%20👋🏻&descAlignY=50&descAlign=50&fontAlign=50&fontAlignY=25&fontSize=40&descSize=25"/> 
  
->#### Sou estudante de Bacharelado em Ciências da Computação, atualmente no 6º Semestre, e com foco no desenvolvimento _WEB_.
+>#### Sou estudante de Bacharelado em Ciências da Computação na Universidade Potiguar, atualmente no 6º Semestre, e com foco no desenvolvimento _WEB_.
+>#### Estou estagiando como Desenvolvedor Web Full Stack na [ESIG Software & Consultoria](https://site.esig.com.br).
 >#### Tenho interesse em aprender novos conceitos e tecnologias. Meu desejo é de me especializar na área de Egenharia de Software, por tanto, busco constantemente oportunidades para colocar meus conhecimentos em prática e adquirir bastante conhecimento. 😀
 
 
@@ -9,7 +10,7 @@
 ### 🌐 Conecte-se comigo:
 
 [![GMAIL](https://img.shields.io/badge/-samuel.fontes.ss@gmail.com-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:samuel.fontes.ss@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelfontes2003/) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xsamuel007x) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samuel_fontesgtr/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/samuel_fontesgtr/) 
 
 
 
