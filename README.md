@@ -1,8 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:29264e,50:0000bd,100:00aeb8&height=200%&section=header&text=Seja%20Bem-Vindo!%20&reversal=false&textBg=false&fontColor=fff&animation=fadeIn&desc=Olá,%20eu%20sou%20o%20Samuel%20Fontes%20👋🏻&descAlignY=50&descAlign=50&fontAlign=50&fontAlignY=25&fontSize=40&descSize=25"/> 
  
->#### Sou estudante de Bacharelado em Ciências da Computação na Universidade Potiguar, atualmente no 6º Semestre, e com foco no desenvolvimento _WEB_.
->#### Estou estagiando como Desenvolvedor Web Full Stack na [ESIG Software & Consultoria](https://site.esig.com.br).
+>#### Sou estudante de Bacharelado em Ciências da Computação na Universidade Potiguar, atualmente no 8º Semestre, e com foco no desenvolvimento _WEB_.
 >#### Tenho interesse em aprender novos conceitos e tecnologias. Meu desejo é de me especializar na área de Egenharia de Software, por tanto, busco constantemente oportunidades para colocar meus conhecimentos em prática e adquirir bastante conhecimento. 😀
 
 
